@@ -4,3 +4,10 @@
 Understanding the factors that influence accident severity is essential for improving road safety and emergency response strategies. 
 This dataset provides valuable insights into how environmental and traffic conditions impact accident outcomes. 
 By analyzing these patterns and building predictive models, we aim to contribute to smarter transportation systems and help reduce the severity and impact of road accidents.
+
+
+> Ghalia Alkhaldi <br>
+> Mona Almogren <br>
+> Rana Alngashy 444204737 <br>
+>  Mayaz <br>
+> Leen <br>
