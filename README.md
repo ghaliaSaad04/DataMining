@@ -9,5 +9,5 @@ By analyzing these patterns and building predictive models, we aim to contribute
 > Ghalia Alkhaldi <br>
 > Mona Almogren <br>
 > Rana Alngashy <br>
->  Mayaz <br>
+> Mayaz Aljuraid <br>
 > Leen Binmueqal <br>
