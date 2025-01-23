@@ -8,6 +8,6 @@ By analyzing these patterns and building predictive models, we aim to contribute
 <br>
 > Ghalia Alkhaldi <br>
 > Mona Almogren <br>
-> Rana Alngashy 444204737 <br>
+> Rana Alngashy <br>
 >  Mayaz <br>
 > Leen <br>
