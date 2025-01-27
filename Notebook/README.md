@@ -16,7 +16,7 @@ The goal of this project is to analyze traffic accident data using clustering to
 **Meta Data**
 
 Coulmns/Attributes: 14
-Rows/Instances: 840
+<br>Rows/Instances: 840
 
 Attributes:
 	1.	Accident_ID: A unique identifier for each accident.
