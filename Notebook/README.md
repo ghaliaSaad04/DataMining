@@ -8,7 +8,7 @@ Traffic accidents are a critical public safety issue, leading to significant los
 The goal of this project is to analyze traffic accident data using clustering to identify patterns and classification to predict accident severity. This aims to improve transportation systems, enhance road safety, and optimize emergency response strategies.
 
 **Class Label**: 
-Accedent_Severity which measures and classfies the accidents in to either (low, moderate, high)
+Accident_Severity which measures and classfies the accidents in to either (low, moderate, high)
 
 **Data Source**: 
 [Traffic Accident Dataset](https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction)
