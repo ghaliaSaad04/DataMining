@@ -13,8 +13,6 @@ Accedent_Severity which measures and classfies the accidents in to either (low, 
 **Data Source**: 
 [Traffic Accident Dataset](https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction)
   
-**MetaData**
-
 Coulmns/Attributes: 14
 <br>Rows/Instances: 840
 
