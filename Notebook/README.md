@@ -19,13 +19,13 @@ Coulmns/Attributes: 14
 <br>Rows/Instances: 840
 
 Attributes:
-	1.	Accident_ID: A unique identifier for each accident.
-	2.	Date: The date when the accident occurred.
-	3.	Time: The time at which the accident took place.
-	4.	Location: The specific location of the accident.
-	5.	Weather_Conditions: The weather conditions during the time of the accident.
-	6.	Road_Surface: The condition of the road surface at the accident scene.
-	7.	Light_Conditions: The lighting conditions during the accident.
-	8.	Number_of_Vehicles: The number of vehicles involved in the accident.
-	9.	Number_of_Casualties: The number of casualties resulting from the accident.
-	10.	Accident_Severity: The severity of the accident, serving as the class label for prediction.
+	<br>1.	Accident_ID: A unique identifier for each accident.
+	<br>2.	Date: The date when the accident occurred.
+	<br>3.	Time: The time at which the accident took place.
+	<br>4.	Location: The specific location of the accident.
+	<br>5.	Weather_Conditions: The weather conditions during the time of the accident.
+	<br>6.	Road_Surface: The condition of the road surface at the accident scene.
+	<br>7.	Light_Conditions: The lighting conditions during the accident.
+	<br>8.	Number_of_Vehicles: The number of vehicles involved in the accident.
+	<br>9.	Number_of_Casualties: The number of casualties resulting from the accident.
+	<br>10.	Accident_Severity: The severity of the accident, serving as the class label for prediction.
