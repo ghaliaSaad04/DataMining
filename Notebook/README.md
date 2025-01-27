@@ -19,13 +19,20 @@ Coulmns/Attributes: 14
 <br>Rows/Instances: 840
 
 Attributes:
-	<br>1.	Accident_ID: A unique identifier for each accident.
-	<br>2.	Date: The date when the accident occurred.
-	<br>3.	Time: The time at which the accident took place.
-	<br>4.	Location: The specific location of the accident.
-	<br>5.	Weather_Conditions: The weather conditions during the time of the accident.
-	<br>6.	Road_Surface: The condition of the road surface at the accident scene.
-	<br>7.	Light_Conditions: The lighting conditions during the accident.
-	<br>8.	Number_of_Vehicles: The number of vehicles involved in the accident.
-	<br>9.	Number_of_Casualties: The number of casualties resulting from the accident.
-	<br>10.	Accident_Severity: The severity of the accident, serving as the class label for prediction.
+
+
+<br>1. **Accident_ID**: A unique identifier for each accident.
+<br>2. **Accident_Severity**: The severity of the accident (Low, Moderate,high).
+<br>3. **Start_Time**: The timestamp when the accident started.
+<br>4. **End_Time**: The timestamp when the accident ended.
+<br>5. **Location**: The geographic location where the accident occurred (e.g., road, intersection, city).
+<br>6. **Temperature**: The temperature at the time of the accident (in Fahrenheit).
+<br>7. **Humidity**: The relative humidity percentage at the time of the accident.
+<br>8. **Precipitation**: The amount of precipitation (e.g., rain, snow) at the time of the accident, measured in inches.
+<br>9. **Wind_Speed**: The wind speed at the time of the accident (in miles per hour).
+<br>10. **Visibility**: The visibility distance at the time of the accident (in miles).
+<br>11. **Sunlight**: Whether sunlight was present during the accident (binary: 0 = no sunlight, 1 = sunlight).
+<br>12. **Cloud_Cover**: The percentage of sky covered by clouds during the accident.
+<br>13. **Road_Condition**: The condition of the road where the accident occurred (e.g., wet, icy, dry).
+<br>14. **Traffic_Volume**: The amount of traffic on the road at the time of the accident.
+
