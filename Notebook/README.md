@@ -16,8 +16,7 @@ Accident_Severity which measures and classfies the accidents in to either (low, 
 Coulmns/Attributes: 14
 <br>Rows/Instances: 840
 
-Attributes:
-
+**Attributes:**
 <br>1. **Accident_ID**: A unique identifier for each accident.
 <br>2. **Accident_Severity**: The severity of the accident (Low, Moderate,high).
 <br>3. **Start_Time**: The timestamp when the accident started.
