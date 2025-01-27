@@ -1,19 +1,19 @@
-#**Project Title**: Traffic Accident Severity Prediction Based on Environmental and Traffic Factors
+**Project Title**: Traffic Accident Severity Prediction Based on Environmental and Traffic Factors
 
 
-##**Project Objectives and Goals**: 
+**Project Objectives and Goals**: 
 
 Traffic accidents are a critical public safety issue, leading to significant loss of life and economic consequences. Understanding the factors that influence accident severity is essential for improving road safety and emergency response strategies. This dataset provides valuable insights into how environmental and traffic conditions impact accident outcomes. By analyzing these patterns and building predictive models, we aim to contribute to smarter transportation systems and help reduce the severity and impact of road accidents.
 
 The goal of this project is to analyze traffic accident data using clustering to identify patterns and classification to predict accident severity. This aims to improve transportation systems, enhance road safety, and optimize emergency response strategies.
 
 
-##**Data Source**: 
+**Data Source**: 
 [Traffic Accident Dataset](https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction)
 
 
     
-##**MetaData**
+**MetaData**
 
 Coulmns/Attributes: 14
 <br>Rows/Instances: 840
